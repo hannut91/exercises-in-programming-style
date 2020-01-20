@@ -1,0 +1,31 @@
+{
+  "name": "exercises-in-programming-style",
+  "version": "1.0.0",
+  "description": "Exercises in Programming Style ==============================",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest",
+    "watch": "npm test -- --watch-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannut91/exercises-in-programming-style.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannut91/exercises-in-programming-style/issues"
+  },
+  "homepage": "https://github.com/hannut91/exercises-in-programming-style#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.25",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
